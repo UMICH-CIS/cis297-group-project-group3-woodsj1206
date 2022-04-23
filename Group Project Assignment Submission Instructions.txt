@@ -1,0 +1,14 @@
+Please follow the instructions below to upload your group project:
+	1. Create your GitHub account if not already
+    2. Click on the link provided in your group project instructions (Links to an external GitHub site.)
+    3. Log in to your GitHub account
+    4. Select your group name and number from the list of available group templates
+    5. Accept the template link by clicking the green accept button
+    6. Click the blue link to go to your newly created private repository
+    7. Create a clone of your new repository for your local machine
+    8. Save all your project files in a zip file including PPT file. 
+	   Remember to upload only one zip file for your group containing all the files of your game project plus PPT Presentation by 4/25.
+    9. Commit changes to your private GitHub repository before the assignment deadline
+	10. Provide the link to your repository in your CANVAS group assignment.
+
+ 
